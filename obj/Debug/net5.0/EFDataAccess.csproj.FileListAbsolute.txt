@@ -1,0 +1,12 @@
+C:\Users\elimens\Desktop\Projects\EFDataAccess\bin\Debug\net5.0\EFDataAccess.deps.json
+C:\Users\elimens\Desktop\Projects\EFDataAccess\bin\Debug\net5.0\EFDataAccess.dll
+C:\Users\elimens\Desktop\Projects\EFDataAccess\bin\Debug\net5.0\ref\EFDataAccess.dll
+C:\Users\elimens\Desktop\Projects\EFDataAccess\bin\Debug\net5.0\EFDataAccess.pdb
+C:\Users\elimens\Desktop\Projects\EFDataAccess\obj\Debug\net5.0\EFDataAccess.csproj.AssemblyReference.cache
+C:\Users\elimens\Desktop\Projects\EFDataAccess\obj\Debug\net5.0\EFDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elimens\Desktop\Projects\EFDataAccess\obj\Debug\net5.0\EFDataAccess.AssemblyInfoInputs.cache
+C:\Users\elimens\Desktop\Projects\EFDataAccess\obj\Debug\net5.0\EFDataAccess.AssemblyInfo.cs
+C:\Users\elimens\Desktop\Projects\EFDataAccess\obj\Debug\net5.0\EFDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\elimens\Desktop\Projects\EFDataAccess\obj\Debug\net5.0\EFDataAccess.dll
+C:\Users\elimens\Desktop\Projects\EFDataAccess\obj\Debug\net5.0\ref\EFDataAccess.dll
+C:\Users\elimens\Desktop\Projects\EFDataAccess\obj\Debug\net5.0\EFDataAccess.pdb

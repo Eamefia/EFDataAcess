@@ -1,0 +1,11 @@
+C:\Users\elimens\Desktop\Projects\EFDataAccess\bin\Debug\net5.0\Scylap.Data.deps.json
+C:\Users\elimens\Desktop\Projects\EFDataAccess\bin\Debug\net5.0\Scylap.Data.dll
+C:\Users\elimens\Desktop\Projects\EFDataAccess\bin\Debug\net5.0\ref\Scylap.Data.dll
+C:\Users\elimens\Desktop\Projects\EFDataAccess\bin\Debug\net5.0\Scylap.Data.pdb
+C:\Users\elimens\Desktop\Projects\EFDataAccess\obj\Debug\net5.0\Scylap.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elimens\Desktop\Projects\EFDataAccess\obj\Debug\net5.0\Scylap.Data.AssemblyInfoInputs.cache
+C:\Users\elimens\Desktop\Projects\EFDataAccess\obj\Debug\net5.0\Scylap.Data.AssemblyInfo.cs
+C:\Users\elimens\Desktop\Projects\EFDataAccess\obj\Debug\net5.0\Scylap.Data.csproj.CoreCompileInputs.cache
+C:\Users\elimens\Desktop\Projects\EFDataAccess\obj\Debug\net5.0\Scylap.Data.dll
+C:\Users\elimens\Desktop\Projects\EFDataAccess\obj\Debug\net5.0\ref\Scylap.Data.dll
+C:\Users\elimens\Desktop\Projects\EFDataAccess\obj\Debug\net5.0\Scylap.Data.pdb
